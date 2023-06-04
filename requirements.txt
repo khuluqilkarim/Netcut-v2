@@ -1,0 +1,7 @@
+scapy
+mac-vendor-lookup
+os
+sys
+time
+netifaces
+python-nmap
